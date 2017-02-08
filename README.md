@@ -13,3 +13,5 @@ Tools to display org-mode exported htmls as presentation without any modifies on
   - Second-level blocks are sub-slides.
   - Third-level blocks are incremental elements.
   
+## Demo
+  - ![https://yipf.github.io/org-mode-web-ppt/]

@@ -1,0 +1,28 @@
+#+AUTHOR: 易鹏飞
+
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:nil tex:t
+#+OPTIONS: toc:2 num:2
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+DESCRIPTION: 大连大学信息工程学院 
+
+#+KEYWORDS: 微机原理及应用
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:
+#+HTML_HEAD_EXTRA:
+#+SUBTITLE: 大连大学信息工程学院
+#+INFOJS_OPT:
+#+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.1 (<a href="http://orgmode.org">Org</a> mode 8.3.5)
+#+LANGUAGE: zh_CN
+
+
+#+HTML_HEAD: <link href="../css/solarized-light.min.css" rel="stylesheet"></link>
+#+HTML_HEAD: <link href="../css/orgmode-slideshow.css" rel="stylesheet"></link>
+
+#+HTML_HEAD: <script type="text/javascript" src="../js/jquery-1.7.1.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="../js/yipf-slides.js"></script>
+
