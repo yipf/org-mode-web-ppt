@@ -1,0 +1,84 @@
+#+TITLE: test
+#+INCLUDE: template.org
+
+
+* afadsf萨达发射的反a
+
+sadf a as
+f s
+f sa 
+s fs
+
+
+* 阿斯顿反
+
+adssfdsad
+
+** asdfasdfasdfads
+   
+asdfasf
+
+** asdfadsfadsfasf
+
+ afa f dsf asf
+a sfas fasf 
+
+ asdf sadf asdf 
+ 
+ - asdfasdfasf
+ - zsfdsadfasdf
+
+*** 步骤
+
+**** 1萨达反萨达反sa
+***** sfdjklsadjflks
+****** awfrasfasdfasf
+******* asdfasdfasfasfd
+
+
+* asdfadsf asdf 
+
+$$ a+b $$
+
+asdfjadsjkfh 
+
+测试，哈哈
+
+- 阿斯顿反
+- 阿斯顿发动算法
+- 萨达发射的反
+
+  - asdfsadfsa :: asdfsda asdf asf
+  - asdfasdf saf asf :: asdf asdf asdf 
+  - asdfasdfasdf
+
+* python
+** 一个例子
+
+#+BEGIN_SRC python
+
+return 3+4*65
+
+#+END_SRC
+
+*** 结果
+
+#+RESULTS:
+: 263
+
+*** sadfasdfag
+
+asdfadsf 
+
+
+* 表格
+
+** 然后，我们来看一个图片
+
+测试
+** 首先，我们来看一个表格
+#+CAPTION: 表格
+| asdfsdf   | asdfdasf | asdfasdf | asdfasf | asdfasf  |
+|-----------+----------+----------+---------+----------|
+| asfasfa   | asdfasf  | asdfaf   | sadfaf  | asdfasfa |
+| asdfasdfa | asdfasf  | asdfasf  | asdfasf | asdfa    |
