@@ -10,6 +10,6 @@ Tools to display org-mode exported htmls as presentation without any modifies on
   
 ## Concepts & Usage:
   - First-level blocks are slides.
-  - Second-level blocks are subslides.
+  - Second-level blocks are sub-slides.
   - Third-level blocks are incremental elements.
   
